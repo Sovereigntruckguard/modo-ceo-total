@@ -1,2 +1,3 @@
-# modo-ceo-total
-App web personal de Sergio Murillo para gestión de vida tipo CEO
+# MODO CEO TOTAL
+
+App personal web para Sergio Murillo.
